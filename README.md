@@ -10,6 +10,7 @@ using the download script:
 Provided kernel and the busybox versions are:
 - Kernel version => `5.15.131`
 - Busybox version => `1.36.1`
+
 You can change these by editing the `download.sh` script
 
 ## Building
